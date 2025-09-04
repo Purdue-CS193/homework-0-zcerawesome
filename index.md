@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Rishi's First CS 19300 Homework
+
+- Learning about Terminal
+- Leaerning how to use Github
+- Chill TAs
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
